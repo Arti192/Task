@@ -1,5 +1,5 @@
-# TaskReminding App
-Tasks for Interview
+# TaskList App
+Tasks List App
 
 Task Reminder App is for Reminding task which task is important and High Priorities.
 
