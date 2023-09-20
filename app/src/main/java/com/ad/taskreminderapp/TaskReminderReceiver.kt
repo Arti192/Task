@@ -36,7 +36,7 @@ class TaskReminderReceiver : BroadcastReceiver() {
             .setWhen(System.currentTimeMillis())
             .setAutoCancel(true)
             .setSmallIcon(R.drawable.ic_launcher_foreground)
-            .setContentTitle("taskTitle")
+            .setContentTitle(taskTitle)
             .setContentText("Your task is due now!")
             .setPriority(NotificationCompat.PRIORITY_HIGH)
             .setSound(defaultSoundUri)
