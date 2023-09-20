@@ -11,8 +11,4 @@ And Also User get notification for reminding upcoming task.
 
 This app also working on offline mode.
 
-
-![Screenshot_20230920_195650](https://github.com/Arti192/Task/assets/135823489/63ea6b15-596f-4d9d-976c-4f7d354848e8)
-
-
-![Screenshot_20230920_195712](https://github.com/Arti192/Task/assets/135823489/371f5f68-3c8a-49fd-b84e-f64f83e99c31)
+![Screenshot_20230920_195650](https://github.com/Arti192/Task/assets/135823489/ec391ba9-23a8-4389-a399-14f325ead3f4)
